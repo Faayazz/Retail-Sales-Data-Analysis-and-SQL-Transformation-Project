@@ -43,5 +43,3 @@ Generated actionable insights, including:
 This project demonstrates **end-to-end SQL skills**—from database creation and handling dirty data to advanced analytics—bridging the gap between raw data and actionable business intelligence.
 
 ---
-#SQL #DataAnalysis #DataCleaning #SQLServer #BusinessIntelligence #RetailAnalytics #DataTransformation #DatabaseDesign #SalesPerformance #WindowFunctions
----
