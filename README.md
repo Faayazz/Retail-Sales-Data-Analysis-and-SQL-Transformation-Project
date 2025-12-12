@@ -36,8 +36,7 @@ Generated actionable insights, including:
 * **SQL Concepts:** Joins, Aggregations, Window Functions, Common Table Expressions (CTEs), and complex Data Cleaning logic (`CASE` statements, `UPDATE` commands).
 
 ### 📂 Files in Repository
-* `freelance_project_create_table.sql` → Database schema creation, sample data insertion, and data cleaning queries.
-* `insights_queries.sql` → Business intelligence scripts for generating all required reports and metrics.
+* `sales-data-analysis.sql` → Database schema creation, sample data insertion, and data cleaning queries.
 
 ### 🚀 Conclusion
 This project demonstrates **end-to-end SQL skills**—from database creation and handling dirty data to advanced analytics—bridging the gap between raw data and actionable business intelligence.
